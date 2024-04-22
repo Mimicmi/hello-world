@@ -14,6 +14,7 @@ public class Greeter {
 
   // TODO: Add javadoc comment
   public String greet(String someone) {
-    return String.format("Hello my dear twice ab test 3, %s!", someone);
+    return String.format(
+        "Ceci est la version modifiée pour le rendu TP (Simon Frezard, Antoine Moreau, Lucas Brossier), %s!", someone);
   }
 }
