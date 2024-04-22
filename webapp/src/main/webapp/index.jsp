@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>TP Atl Pipeline As Code</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h2><u>Groupe : </u>Simon Frezard, Antoine Moreau, Lucas Brossier</h2>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Modification par rapport au CI/CD</h1>
 
   
 </form>
