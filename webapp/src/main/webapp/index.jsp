@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Modification <a href="#">Sign in</a>.</p>
   </div>
 
    <h1> Modification par rapport au CI/CD</h1>
